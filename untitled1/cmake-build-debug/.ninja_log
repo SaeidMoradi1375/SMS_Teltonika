@@ -1,0 +1,16 @@
+# ninja log v5
+7	806	7208794839252165	CMakeFiles/untitled1.dir/InputStream.c.obj	5bba82c32083b454
+11	958	7208794840831259	CMakeFiles/untitled1.dir/StreamBuffer.c.obj	a897c72e6a4a3a3e
+2	88	7208817985213025	CMakeFiles/untitled1.dir/main.c.obj	8ebfb171add04a9c
+185	432	7208050518637373	untitled1.exe	8bb8963cc56f7d3d
+13	926	7208794840501448	CMakeFiles/untitled1.dir/Str.c.obj	965c51fbfa4bef79
+801	920	7208794840441482	CMakeFiles/untitled1.dir/OutputStream.c.obj	5b2bf30a6f150b6b
+1	125	7208818365422620	build.ninja	a55f7582ece257e2
+10	800	7208794839232176	CMakeFiles/untitled1.dir/buffer.c.obj	44576ac6fd02922a
+5	1951	7208794850766164	CMakeFiles/untitled1.dir/arduino.c.obj	883dc8fa81e8a403
+1	127	7208818365422620	build.ninja	a55f7582ece257e2
+2	94	7208818366701853	CMakeFiles/untitled1.dir/main.c.obj	8ebfb171add04a9c
+2	87	7208818569035696	CMakeFiles/untitled1.dir/main.c.obj	8ebfb171add04a9c
+1	125	7208822725746635	CMakeFiles/untitled1.dir/main.c.obj	8ebfb171add04a9c
+2	85	7208823245119523	CMakeFiles/untitled1.dir/main.c.obj	8ebfb171add04a9c
+2	83	7208824179439247	CMakeFiles/untitled1.dir/main.c.obj	8ebfb171add04a9c
